@@ -7,6 +7,7 @@
 <html>
 <head>
     <title>Recipe</title>
+    <link rel="stylesheet" type="text/css" href="css/responseStyle.css">
 </head>
 <body>
     <h1>Ingredients</h1>
