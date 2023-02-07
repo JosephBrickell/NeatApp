@@ -39,4 +39,8 @@ public class BBCGoodFood implements Website {
         return methodDiv.eachText();
     }
 
+    public void jdsMethod(){
+
+    }
+
 }
